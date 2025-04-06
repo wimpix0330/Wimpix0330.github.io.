@@ -1,0 +1,23 @@
+<!DOCTYPE html>  
+<html>  
+<head>  
+  <title>🌭 SECUESTRO BY WIMPY</title>  
+  <style>  
+    body {  
+      background: #000;  
+      color: #f00;  
+      text-align: center;  
+      font-family: monospace;  
+    }  
+    marquee {  
+      font-size: 24px;  
+      margin: 20px;  
+    }  
+  </style>  
+</head>  
+<body>  
+  <h1>¡WIMPY HA PIRATEADO ESTO! 🚨</h1>  
+  <marquee>🌭 PAGA 1 CROQUETA PARA RECUPERAR EL CONTROL 🌭</marquee>  
+  <img src="https://i.imgur.com/XYZ123.jpg" width="200">  
+</body>  
+</html>
